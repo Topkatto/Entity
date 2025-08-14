@@ -19,7 +19,7 @@ health -= 500; // Oops, health is now -400!
 
 Entity<int> health(100);
 // Set a rule ONCE: health must be between 0 and 100.
-health._SetValidator([(int val){ return val >= 0 && val <= 100; });
+health._SetValidator([](int val){ return val >= 0 && val <= 100; }); // using lambda expressions
 
 health -= 500; // Operation is automatically rejected by the validator.
 // The value of health remains safely at 0.
