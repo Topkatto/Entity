@@ -1,6 +1,6 @@
-# C+, Entity Wrapper (`Entity.hpp`)
+# Entity (`Entity.hpp`)
 
-A Modern C++, header-only library for creating states/managing variables more easier/expanded. This wrapper allows you to treat complex, state-managed objects with the same syntactic ease as a primitive type like `int` or `float`.
+A C++ 17 header-only library for creating states/managing variables more easier/expanded. This wrapper allows you to treat complex, state-managed objects with the same syntactic ease as a primitive type like `int` or `float`.
 
 ## About The Project
 
