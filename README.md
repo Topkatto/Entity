@@ -52,4 +52,3 @@ This is a header-only library, making installation simple.
 <img width="733" height="419" alt="image" src="https://github.com/user-attachments/assets/38c74c0e-7b93-4931-a67f-49cbd787ba29" />
 <img width="783" height="628" alt="image" src="https://github.com/user-attachments/assets/5c4c8e53-c44b-4db3-b182-6511111b4fa9" />
 <img width="1193" height="203" alt="image" src="https://github.com/user-attachments/assets/5e8bd00c-f5ce-4d46-aef4-f968217b74f4" />
-<img width="737" height="176" alt="image" src="https://github.com/user-attachments/assets/54db96a6-6005-48ec-9152-cde215089594" />
