@@ -49,6 +49,4 @@ This is a header-only library, making installation simple.
 4. You're done with setting up Entity library.
 
 ## Usage and Tutorial
-<img width="733" height="419" alt="image" src="https://github.com/user-attachments/assets/38c74c0e-7b93-4931-a67f-49cbd787ba29" />
-<img width="783" height="628" alt="image" src="https://github.com/user-attachments/assets/5c4c8e53-c44b-4db3-b182-6511111b4fa9" />
-<img width="1193" height="203" alt="image" src="https://github.com/user-attachments/assets/5e8bd00c-f5ce-4d46-aef4-f968217b74f4" />
+At Tutorial.md
